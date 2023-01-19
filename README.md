@@ -14,8 +14,10 @@ Look a Nubela ProxyCurl pricing for details: https://nubela.co/proxycurl/pricing
 
 ## Usage:
 
-To access calculator use this link (read access granted for all):
+For access calculator online use GoogleDoc link (read access granted for all):
 
 [Nubela ProxyCurl Pricing Calculator](https://docs.google.com/spreadsheets/d/1XG3Jfju-uBVoJjazOx5FwWXXEbd1Ou5FdUVXhYk7u20/edit#gid=0)
 
-For grant calculator write access contact me: @bormaxi8080
+For grant calculator administrative access contact me: @bormaxi8080
+
+For access offilne calculator version use 'Nubela Service Cost Calculator.xslx' file.
